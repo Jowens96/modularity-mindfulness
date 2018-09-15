@@ -1,5 +1,6 @@
 html {
   font-family: "Noto Sans Japanese", sans-serif;
+  color: #000;
 }
 
 nav a {
@@ -10,17 +11,21 @@ nav a {
   text-decoration: none;
 }
 
+nav a:hover {
+  border-bottom-color: #0084a6;
+}
+
 hr {
   border-width: 2px;
   border-color: #e2e2e2;
 }
 
-.btn {
+.btn-ghost {
   color: #005e76;
   border-color: #8bc9d9;
   border-width: 2px;
 }
 
-.btn:hover {
+.btn-ghost:hover {
   background-color: #8bc9d9;
 }
