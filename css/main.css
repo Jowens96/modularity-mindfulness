@@ -32,11 +32,21 @@ hr {
   background-color: #8bc9d9;
 }
 
+footer p {
+  color: #666;
+}
+
 @media only screen and (min-width: 60em) {
 
-nav {
-    margin: auto;
-    padding-top: 2em;
-}
+  .h1class {
+    text-align: left;
+  }
+
+  .h2class {
+    text-align: left;
+
+  }
+
+
 
 }
