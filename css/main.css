@@ -46,4 +46,10 @@ footer p {
     text-align: left;
   }
 
+  .width-hr {
+    text-align: center;
+    margin: 0 auto;
+    width: 60%;
+  }
+
 }
